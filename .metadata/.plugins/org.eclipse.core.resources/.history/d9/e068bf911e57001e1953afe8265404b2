@@ -1,0 +1,26 @@
+package com.william.emailservice.infra.ses;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import com.amazonaws.services.simpleemail.AmazonSimpleEmailService;
+import com.william.emailservice.adapters.EmailSenderGateway;
+
+public class SesEmailSender implements EmailSenderGateway{
+
+	private final AmazonSimpleEmailService amazonSimpleEmailService;
+	
+	@Autowired
+	public SesEmailSender(AmazonSimpleEmailService amazonSimpleEmailService) {
+		this.amazonSimpleEmailService = amazonSimpleEmailService;
+	}
+	@Override
+	public void sendEmail(String to, String subject, String body) {
+		sendEmailRequest request = new SendEmailRequest()
+				.withSource("")
+				.withDestination(new Destination().withTpAddresses(to))
+				.wihMessage(new Message()
+						.withSubject(new Content(subject))
+						.withBody(new Body().withText(new Content(body)))
+						);
+	}
+
+}

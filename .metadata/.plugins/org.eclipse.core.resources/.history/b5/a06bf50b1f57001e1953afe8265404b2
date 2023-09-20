@@ -1,0 +1,5 @@
+package com.william.emailservice.adapters;
+
+public class EmailSenderGateway {
+
+}

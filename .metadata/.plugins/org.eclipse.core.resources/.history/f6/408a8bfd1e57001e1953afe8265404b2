@@ -1,0 +1,22 @@
+package com.william.emailservice.applicantion;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.william.emailservice.adapters.EmailSenderGateway;
+import com.william.emailservice.core.EmailSenderUseCase;
+
+public class EmailSenderService implements EmailSenderUseCase {
+
+	private final EmailSenderGateway emailSenderGateway;
+
+	@Autowired
+	public EmailSenderService(EmailSenderGateway emailGateway) {
+		this.EmailSenderGateway = emailGateway;
+	}
+	
+	@Override
+	public void sendEmail(String to, String subject, String body) {
+		// TODO Auto-generated method stub
+		
+	}
+}

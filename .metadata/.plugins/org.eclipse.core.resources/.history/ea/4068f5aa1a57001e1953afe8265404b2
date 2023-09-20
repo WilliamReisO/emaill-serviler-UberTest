@@ -1,0 +1,7 @@
+package com.william.emailservice.applicantion;
+
+import com.william.emailservice.core.EmailSenderUseCase;
+
+public class EmailSenderService implements EmailSenderUseCase {
+
+}
