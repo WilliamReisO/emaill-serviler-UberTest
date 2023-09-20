@@ -1,0 +1,5 @@
+package com.william.emailservice.core.exceptions;
+
+public class EmailServiceException {
+
+}

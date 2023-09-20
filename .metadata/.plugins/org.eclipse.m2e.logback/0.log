@@ -379,3 +379,46 @@ Caused by: java.lang.Exception: File not found: C:\Users\William Reis\OneDrive\�
 2023-09-19 22:31:49,422 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
 2023-09-19 22:31:51,386 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-09-19 22:31:51,403 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-19 22:31:51,409 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 12:44:54,352 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 12:44:54,503 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 12:44:54,517 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 12:45:45,865 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 12:45:45,926 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 12:45:45,929 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 12:51:25,326 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 12:51:25,359 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 12:51:25,364 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 12:51:34,007 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 12:51:34,041 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 12:51:34,045 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 12:51:42,606 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 12:51:42,653 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 12:51:42,658 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 12:52:28,248 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 12:52:28,265 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 12:52:28,269 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 12:53:08,693 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 12:53:08,703 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 12:53:08,706 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 14:09:17,012 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 14:09:17,080 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 14:09:17,088 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 14:30:10,805 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 14:30:10,962 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 14:30:10,966 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 14:31:31,173 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 14:31:31,218 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 14:31:31,221 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 14:33:58,900 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 14:33:58,910 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 14:33:58,916 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 14:34:09,510 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 14:34:09,523 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 14:34:09,526 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 14:47:30,402 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 14:47:30,414 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 14:47:30,418 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources
+2023-09-20 15:19:59,236 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-09-20 15:19:59,305 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-20 15:19:59,314 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\William Reis\OneDrive\햞ea de Trabalho\Projetos\Projetos Treino basico web\email-service\email-service\src\test\resources

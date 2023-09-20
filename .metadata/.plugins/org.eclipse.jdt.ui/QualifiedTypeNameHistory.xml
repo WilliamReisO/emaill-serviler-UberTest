@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.william.emailservice.core.EmailSenderUseCase"/>
+    <fullyQualifiedTypeName name="com.william.emailservice.adapters.EmailSenderGateway"/>
+    <fullyQualifiedTypeName name="com.amazonaws.AmazonServiceException"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.simpleemail.model.SendEmailRequest"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.simpleemail.model.Destination"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.simpleemail.model.Message"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.web.WebProperties.Resources.Chain.Strategy.Content"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.simpleemail.model.Content"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.simpleemail.model.Body"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.william.emailservice.applicantion.EmailSenderService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="com.william.emailservice.core.exceptions.EmailServiceException"/>
+    <fullyQualifiedTypeName name="com.william.emailservice.core.EmailRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.simpleemail.AmazonSimpleEmailService"/>
+    <fullyQualifiedTypeName name="com.amazonaws.services.simpleemail.AmazonSimpleEmailServiceClientBuilder"/>
+</qualifiedTypeNameHistroy>

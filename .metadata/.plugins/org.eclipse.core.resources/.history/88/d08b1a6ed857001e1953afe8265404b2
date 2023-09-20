@@ -1,0 +1,5 @@
+package com.william.emailservice.controller;
+
+public class EmailSenderController {
+
+}

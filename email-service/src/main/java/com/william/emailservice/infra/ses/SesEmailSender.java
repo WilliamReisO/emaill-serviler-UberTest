@@ -11,6 +11,7 @@ import com.amazonaws.services.simpleemail.model.Destination;
 import com.amazonaws.services.simpleemail.model.Message;
 import com.amazonaws.services.simpleemail.model.SendEmailRequest;
 import com.william.emailservice.adapters.EmailSenderGateway;
+import com.william.emailservice.core.exceptions.EmailServiceException;
 
 @Service
 public class SesEmailSender implements EmailSenderGateway{
